@@ -1,0 +1,71 @@
+body {
+  background-image: url(grid.gif);
+}
+
+.form-0 {
+  background-image: url(Smart-brain-3.jpg);
+  background-size: contain;
+  border: 0px solid rgb(214, 17, 50);
+  width: 629px;
+  height: 120px;
+  position: relative;
+  top: 140.4px;
+  left: 400px;
+}
+.form-0 .form-1 {
+  position: relative;
+  top: 25px;
+}
+.form-0 input {
+  width: 500px;
+  height: 60px;
+}
+
+.detect-0 {
+  border: rebeccapurple 2px solid;
+  background-color: rebeccapurple;
+  width: 114.5px;
+  height: 60px;
+  position: relative;
+  top: -40px;
+  left: 510px;
+}
+.detect-0 p {
+  font-size: 20px;
+  padding-left: 30px;
+  color: wheat;
+}
+
+.sign-out {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 60px;
+  margin-top: 36px;
+}
+
+div.img-0 {
+  border: 0px solid teal;
+  border-radius: 20px;
+  width: 170px;
+  height: 170px;
+  background-image: url(Smart-brain.jpg);
+  background-size: cover;
+  position: relative;
+  left: 20px;
+}
+
+a {
+  color: wheat;
+  font-size: 30px;
+}
+
+p {
+  color: wheat;
+  font-size: 28px;
+}
+
+.p {
+  position: relative;
+  top: 160px;
+  left: 26%;
+}/*# sourceMappingURL=Dashboard.css.map */

@@ -1,0 +1,112 @@
+body {
+    //background-image: linear-gradient(purple red yellow);
+    font-size: 13px;
+    color: white;
+  }/*# sourceMappingURL=smart-brain.css.map */
+  
+  
+  ul{
+        list-style-type: none;      
+        margin-top: 36px;
+        font-size: 30px;
+        text-decoration: underline;
+    }
+  
+    li{       
+        color: peachpuff;
+        position: relative;
+        left:1001px;
+        display: inline;
+        padding: 26px;
+    }
+
+    a{
+        color:peachpuff
+    }
+
+    a.sign-in{
+      border: 2px solid slateblue;
+      font-size: 18px;
+      color: rgb(79, 76, 97);
+    }
+
+    
+    a.sign-in:hover{
+        color: rgb(10, 10, 110);
+        transform: scale(.5);
+    }
+
+    a.reg:active{
+        color: slateblue;
+    }
+
+    a.reg{
+      border: 0px solid slateblue;
+      font-size: 18px;
+      color: rgb(79, 76, 97);
+    }
+    
+    a.reg:hover{
+        color: rgb(10, 10, 110);
+
+
+    }
+
+    a.reg:active{
+        color: slateblue;
+    }
+  
+    a:hover{
+      transform: scale(.5);
+    }
+
+    .form-0{
+        border: 0px solid sienna;
+        display: flex;
+        justify-content: center;
+
+        h1{
+            color: whitesmoke;
+            text-align: center;
+            margin: 30px;
+        }
+
+        .form-1{
+            border: 3px solid wheat;
+            border-radius: 30px;
+            width: 270px;
+            height: 400px;
+        }        
+
+    }
+
+label{
+    color: wheat;
+    display: flex;
+    justify-content: center;
+}
+
+.input{
+    position: relative;
+    left: 53px;
+    width: 163px;
+    height: 23px;
+}
+
+.x-links{
+    position: relative;
+    left: 110px;
+    top: 40px;
+}
+
+div.sign{
+    border: 0px solid firebrick;
+    margin-bottom: 20px;
+}
+
+div.regz{
+    border: 0px solid firebrick;
+    margin-top: 42px;
+}
+
+
